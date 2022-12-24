@@ -18,3 +18,8 @@ The 3 programs are run on default priority, hence, 3 seperate copies of the kern
 
 clock_gettime() is used to time the processes.
 
+## How to run the program?
+1) Clone the entire repository
+2) Go to the respective folders
+3) Run make
+
